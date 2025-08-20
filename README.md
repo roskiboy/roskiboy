@@ -1,4 +1,4 @@
-![](https://github-readme-streak-stats.herokuapp.com/?user=roskiboy&theme=radical&hide_border=false)<br/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=roskiboy&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <h1 align="center">Hi 👋, I'm roskiboy</h1>
 <h3 align="center">A passionate full stack developer from México</h3>
